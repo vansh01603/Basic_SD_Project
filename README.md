@@ -5,11 +5,7 @@ This repository contains my Low-Level Design (LLD) and Object-Oriented Design (O
 ## Projects
 
 -  Tic Tac Toe(Done)
--  Parking Lot
--  Snake and Ladder
--  Vending Machine
--  Splitwise
--  BookMyShow
+-  Snake and Ladder(Done)
 
 ## Tech Stack
 
